@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\for Loop Lab\Salary\bin\Debug\netcoreapp3.0\Salary.exe
+C:\Users\User\source\repos\for Loop Lab\Salary\bin\Debug\netcoreapp3.0\Salary.deps.json
+C:\Users\User\source\repos\for Loop Lab\Salary\bin\Debug\netcoreapp3.0\Salary.runtimeconfig.json
+C:\Users\User\source\repos\for Loop Lab\Salary\bin\Debug\netcoreapp3.0\Salary.runtimeconfig.dev.json
+C:\Users\User\source\repos\for Loop Lab\Salary\bin\Debug\netcoreapp3.0\Salary.dll
+C:\Users\User\source\repos\for Loop Lab\Salary\bin\Debug\netcoreapp3.0\Salary.pdb
+C:\Users\User\source\repos\for Loop Lab\Salary\obj\Debug\netcoreapp3.0\Salary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\for Loop Lab\Salary\obj\Debug\netcoreapp3.0\Salary.AssemblyInfo.cs
+C:\Users\User\source\repos\for Loop Lab\Salary\obj\Debug\netcoreapp3.0\Salary.dll
+C:\Users\User\source\repos\for Loop Lab\Salary\obj\Debug\netcoreapp3.0\Salary.pdb

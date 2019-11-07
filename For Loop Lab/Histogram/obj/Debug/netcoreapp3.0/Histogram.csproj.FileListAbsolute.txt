@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for Loop Lab\Histogram\bin\Debug\netcoreapp3.0\Histogram.exe
+C:\Users\User\source\repos\for Loop Lab\Histogram\bin\Debug\netcoreapp3.0\Histogram.deps.json
+C:\Users\User\source\repos\for Loop Lab\Histogram\bin\Debug\netcoreapp3.0\Histogram.runtimeconfig.json
+C:\Users\User\source\repos\for Loop Lab\Histogram\bin\Debug\netcoreapp3.0\Histogram.runtimeconfig.dev.json
+C:\Users\User\source\repos\for Loop Lab\Histogram\bin\Debug\netcoreapp3.0\Histogram.dll
+C:\Users\User\source\repos\for Loop Lab\Histogram\bin\Debug\netcoreapp3.0\Histogram.pdb
+C:\Users\User\source\repos\for Loop Lab\Histogram\obj\Debug\netcoreapp3.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\for Loop Lab\Histogram\obj\Debug\netcoreapp3.0\Histogram.AssemblyInfo.cs
+C:\Users\User\source\repos\for Loop Lab\Histogram\obj\Debug\netcoreapp3.0\Histogram.dll
+C:\Users\User\source\repos\for Loop Lab\Histogram\obj\Debug\netcoreapp3.0\Histogram.pdb
+C:\Users\User\source\repos\for Loop Lab\Histogram\obj\Debug\netcoreapp3.0\Histogram.csprojAssemblyReference.cache

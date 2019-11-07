@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.exe
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.deps.json
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.runtimeconfig.json
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.runtimeconfig.dev.json
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.dll
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.pdb
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.AssemblyInfo.cs
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.dll
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.pdb
+C:\Users\User\source\repos\for Loop Lab\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.csprojAssemblyReference.cache
