@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\bin\Debug\netcoreapp3.0\Clever Lily.exe
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\bin\Debug\netcoreapp3.0\Clever Lily.deps.json
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\bin\Debug\netcoreapp3.0\Clever Lily.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\bin\Debug\netcoreapp3.0\Clever Lily.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\bin\Debug\netcoreapp3.0\Clever Lily.dll
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\bin\Debug\netcoreapp3.0\Clever Lily.pdb
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\obj\Debug\netcoreapp3.0\Clever Lily.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\obj\Debug\netcoreapp3.0\Clever Lily.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\obj\Debug\netcoreapp3.0\Clever Lily.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\obj\Debug\netcoreapp3.0\Clever Lily.dll
+C:\Users\User\source\repos\Nested Loops Exercise\Clever Lily\obj\Debug\netcoreapp3.0\Clever Lily.pdb

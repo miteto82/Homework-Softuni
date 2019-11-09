@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\bin\Debug\netcoreapp3.0\Number Sequence.exe
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\bin\Debug\netcoreapp3.0\Number Sequence.deps.json
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\bin\Debug\netcoreapp3.0\Number Sequence.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\bin\Debug\netcoreapp3.0\Number Sequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\bin\Debug\netcoreapp3.0\Number Sequence.dll
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\bin\Debug\netcoreapp3.0\Number Sequence.pdb
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\obj\Debug\netcoreapp3.0\Number Sequence.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\obj\Debug\netcoreapp3.0\Number Sequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\obj\Debug\netcoreapp3.0\Number Sequence.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\obj\Debug\netcoreapp3.0\Number Sequence.dll
+C:\Users\User\source\repos\Nested Loops Exercise\Number Sequence\obj\Debug\netcoreapp3.0\Number Sequence.pdb

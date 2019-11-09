@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\bin\Debug\netcoreapp3.0\Vowels Sum.exe
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\bin\Debug\netcoreapp3.0\Vowels Sum.deps.json
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\bin\Debug\netcoreapp3.0\Vowels Sum.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\bin\Debug\netcoreapp3.0\Vowels Sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\bin\Debug\netcoreapp3.0\Vowels Sum.dll
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\bin\Debug\netcoreapp3.0\Vowels Sum.pdb
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\obj\Debug\netcoreapp3.0\Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\obj\Debug\netcoreapp3.0\Vowels Sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\obj\Debug\netcoreapp3.0\Vowels Sum.dll
+C:\Users\User\source\repos\Nested Loops Exercise\Vowels Sum\obj\Debug\netcoreapp3.0\Vowels Sum.pdb
